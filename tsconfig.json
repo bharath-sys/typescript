@@ -5,6 +5,7 @@
             "DOM"
         ], // Add this to support console & other standard APIs
         "module": "CommonJS",
-        "target": "ES6"
+        "target": "ES6",
+        "moduleDetection": "force"
     }
 }
